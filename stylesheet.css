@@ -1,0 +1,39 @@
+body {
+  background: #faf3f3;
+}
+footer {
+  background :#da7f8f;
+  color: #faf3f3
+}
+body img{
+  
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+}
+
+main ol li {
+  color: #34656d;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+header nav ul {
+  background: #da7f8f;
+}
+ header nav ul li {
+  display: inline-block;
+  padding: 8px;
+  max-width: 100%;
+  border: 5px solid #da7f8f  
+}
+h1{
+  text-align: center;
+  color: black;
+  background: #e1e5ea
+}
+main h2 {
+  text-align: center;
+ color: black;
+  background: #e1e5ea
+}
